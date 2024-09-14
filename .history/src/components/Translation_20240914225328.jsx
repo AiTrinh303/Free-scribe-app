@@ -1,3 +1,4 @@
+import React from 'react'
 import { LANGUAGES } from '../utils/presets'
 
 export default function Translation(props) {
